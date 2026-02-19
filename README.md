@@ -14,3 +14,4 @@ chamada dos passos;
 Exemplo:
 int n = 2;
 double x = 1 / (double) n;
+
